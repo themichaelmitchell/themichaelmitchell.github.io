@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Michael Mitchell Resume
+title: Michael Mitchell
 # subtitle:
 ---
 

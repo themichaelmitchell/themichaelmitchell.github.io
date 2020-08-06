@@ -12,10 +12,10 @@ author: Michael Mitchell
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  # About Me: "aboutme"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://resume.mmitchell.io"
 
 # --- Logo --- #
@@ -78,7 +78,7 @@ url-pretty: "resume.mmitchell.io"
 link-tags: false
 
 # Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+# excerpt_length: 50
 
 # --- Colours / background image --- #
 
@@ -206,9 +206,9 @@ exclude:
   - screenshot.png
   - docs/
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
