@@ -206,7 +206,8 @@ exclude:
   - screenshot.png
   - docs/
 
-# plugins:
+plugins:
+  - kramdown-parser-gfm
 #   - jekyll-paginate
 #   - jekyll-sitemap
 
