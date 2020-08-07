@@ -7,19 +7,16 @@ title: Michael Mitchell
 ## Introduction
 Hello, my name is Michael and I am an experienced Systems Engineer. I have a background in IT Infrastructure and am interested in public clouds, automation, and accelerating processes.
 
-<!-- ## Proficiencies
-- thing
-- thing
-- thing -->
+---
 
 ## Experience
 #### Platforms Engineer / Systems Engineer
 ###### Newtek Technology Solutions, Feb 2019 - Jun 2020
 - Performed large-scale, greenfield Data Center migration
-  - Researched, planned, and implemented numerous Nutanix environments (Nutanix AHV and VMware vSphere)
+  - Researched, planned, and implemented numerous Nutanix environments (Nutanix AHV and VMware)
   - Consolidated and migrated corporate workloads with minimal downtime
+  - Migrated all customer workload with minimal downtime
   - Decommissioned end-of-life hardware and software
-  - Migrated all customer workload with minimal downtime across datacenters
 - Created tools to programmatically maintain infrastructure with Nutanix Prism API, NetApp OnTap API, and vCenter PowerCLI
 - Implemented corporate and customer backup and disaster recovery solutions (Veeam and HYCU)
 - Worked closely with the executive team to reduce costs associated with IT Infrastructure
@@ -47,6 +44,8 @@ Hello, my name is Michael and I am an experienced Systems Engineer. I have a bac
 - Administered ShoreTel VOIP environment
 - Accelerated endpoint imaging and configuration with Powershell
 - Worked and completed tickets while meeting an SLA
+
+---
 
 ## Extracurricular
 - Continued learning via my homelab (VMware, containers, IaC)
