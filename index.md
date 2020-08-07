@@ -4,7 +4,7 @@ title: Michael Mitchell
 # subtitle:
 ---
 
-## Objective
+## Introduction
 Hello, my name is Michael and I am an experienced Systems Engineer. I have a background in IT Infrastructure and am interested in public clouds, automation, and accelerating processes.
 
 <!-- ## Proficiencies
