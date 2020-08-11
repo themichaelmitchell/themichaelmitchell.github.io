@@ -65,7 +65,7 @@ I am an experienced Systems Engineer with an extensive background in IT Infrastr
 - Managed Windows Server (2008+) and Linux (Ubuntu) environments
 
 #### Helpdesk Technician
-###### LMI Solution, Sep 2014 - Jun 2015
+###### LMI Solutions, Sep 2014 - Jun 2015
 - Administered VMware vSphere environments and ShoreTel VOIP environments
 - Accelerated endpoint imaging and configuration with Powershell
 - Worked and completed tickets while meeting an SLA
