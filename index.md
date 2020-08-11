@@ -4,10 +4,35 @@ title: Michael Mitchell
 # subtitle:
 ---
 
-## Introduction
-I am an experienced Systems Engineer with an extensive background in IT Infrastructure and am interested in public clouds, automation, and accelerating processes.
+## Objective
+I am an experienced Systems Engineer with an extensive background in IT Infrastructure and am interested in public clouds, automation, and accelerating processes. I am seeking employment at a growing company that pushes the technology envelope.
 
----
+<!-- --- -->
+
+## Technical Proficiencies
+<div style="float: left; width: 50%;">
+<ul>
+<li>Nutanix AHV</li>
+<li>VMware ESXi</li>
+<li>Data Center migrations</li>
+<li>Dell Blade Chassis</li>
+<li>NetApp SAN</li>
+</ul>
+</div>
+
+<div style="float: right; width: 50%;">
+<ul>
+<li>Nutanix NX</li>
+<li>Powershell</li>
+<li>Backup and disaster recovery</li>
+<li>Linux (CentOS)</li>
+<li>Windows Server (2003+)</li>
+</ul>
+</div>
+<!--
+--- -->
+
+
 
 ## Experience
 #### Platforms Engineer
@@ -46,7 +71,7 @@ I am an experienced Systems Engineer with an extensive background in IT Infrastr
 - Worked and completed tickets while meeting an SLA
 - Managed Windows Server (2008+) and Linux (Ubuntu) environments
 
----
+<!-- --- -->
 
 ## Extracurricular
 - Continued learning via my homelab (VMware, containers (docker/rancher), IaC (Terraform, Ansible))
