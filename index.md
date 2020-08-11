@@ -41,7 +41,7 @@ I am an experienced Systems Engineer with an extensive background in IT Infrastr
   - Researched, planned, and implemented numerous Nutanix environments (Nutanix AHV and VMware)
   - Consolidated and migrated all corporate and customer workloads with minimal downtime
   - Decommissioned end-of-life hardware and software
-- Built and maintained Nutanix, Dell M1000E chassis, Lenovo Simplivity, Lenovo ThinkSystem DS4200, and NetApp platforms
+- Built and maintained Nutanix NX, Dell M1000E chassis, Lenovo Simplivity, Lenovo ThinkSystem DS4200, and NetApp platforms
 - Created tools to programmatically maintain infrastructure with Nutanix Prism API, NetApp OnTap API, and vCenter PowerCLI (Powershell and Python)
 - Implemented corporate and customer backup and disaster recovery solutions (Veeam and HYCU)
 - Worked closely with the executive team to reduce costs associated with IT Infrastructure
