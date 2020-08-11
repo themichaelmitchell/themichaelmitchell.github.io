@@ -75,4 +75,4 @@ I am an experienced Systems Engineer with an extensive background in IT Infrastr
 
 ## Extracurricular
 - Continued learning via my homelab (VMware, containers (docker/rancher), IaC (Terraform, Ansible))
-- Actively working towards AWS certifications (Solutions Architect and SysOps Administrator)
+- Actively working towards AWS certifications ([Solutions Architect](https://aws.amazon.com/training/path-architecting/) and [SysOps Administrator](https://aws.amazon.com/certification/certified-sysops-admin-associate/))
