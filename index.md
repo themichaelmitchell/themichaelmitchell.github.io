@@ -45,7 +45,7 @@ I am an experienced Systems Engineer with an extensive background in IT Infrastr
 - Created tools to programmatically maintain infrastructure with Nutanix Prism API, NetApp OnTap API, and vCenter PowerCLI (Powershell and Python)
 - Implemented corporate and customer backup and disaster recovery solutions (Veeam and HYCU)
 - Worked closely with the executive team to reduce costs associated with IT Infrastructure
-- Managed Windows Server (2003+) and Linux (CentOS 5+) environments
+- Managed Windows Server (2003+) and Linux (CentOS 5+) environments both manually and via Ansible
 
 #### Systems Engineer
 ###### The Wolff Company, Jun 2018 - Nov 2018
@@ -74,5 +74,5 @@ I am an experienced Systems Engineer with an extensive background in IT Infrastr
 <!-- --- -->
 
 ## Extracurricular
-- Continued learning via my homelab (VMware, containers (docker/rancher), IaC (Terraform, Ansible))
+- Continued learning via my homelab, focusing on DevOps practices (VMware, AWS, containers (docker/kubernetes), IaC (Terraform, Ansible))
 - Actively working towards AWS certifications ([Solutions Architect](https://aws.amazon.com/training/path-architecting/) and [SysOps Administrator](https://aws.amazon.com/certification/certified-sysops-admin-associate/))
