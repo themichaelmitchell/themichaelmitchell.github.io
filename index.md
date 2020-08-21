@@ -5,7 +5,7 @@ title: Michael Mitchell
 ---
 
 ## Objective
-I am an experienced Systems Engineer with an extensive background in IT Infrastructure and am interested in public clouds, automation, and accelerating processes. I am seeking employment at a growing company that pushes the technology envelope.
+I am an experienced Systems Engineer with an extensive background in IT Infrastructure and am interested in public clouds, automation, and accelerating processes. I am seeking employment at a growing company that pushes the technology envelope. I am actively practiving DevOps tools and methodologies. I am looking to direct my career into a position revolving around DevOps/IaC.
 
 <!-- --- -->
 
