@@ -37,9 +37,9 @@ I am an experienced Senior Site Reliability Engineer with an extensive backgroun
 ## Experience
 #### Senior Site Reliability Engineer
 ###### GoDaddy, May 2021 - Aug 2023
-- Regularly performed root-cause analysis and resolution in complex webhosting environments
-- Worked with customer to fulfill specific Observation requirements (fluentd, opensearch, kibana, grafana, ansible)
-- Built and maintained tooling to audit cloud resources for savings and drift (python)
+- Regularly performed root-cause analysis and resolution in complex environments
+- Worked with customers to fulfill bespoke Observation features (fluentd, opensearch, kibana, grafana, ansible)
+- Built and maintained tooling to audit resources for savings and drift (python)
 - Commonly wrote custom nginx/iptables rules to mitigate malicious web traffic
 - Developed and thoroughly documented new platform features implemented in Ansible
 - Routinely performed large-scale customer VPS fleet maintenances (bash, ansible)
