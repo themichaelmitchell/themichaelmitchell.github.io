@@ -5,28 +5,28 @@ title: Michael Mitchell
 ---
 
 ## Objective
-I am an experienced Site Reliability Engineer with an extensive background in IT Operations and am interested in public clouds, automation, and accelerating processes. I am seeking employment at a growing company that pushes the technology envelope and fosters teams focused on growth and stability. I am actively employed as a SRE and continue to strive to grow.
+I am an experienced Senior Site Reliability Engineer with an extensive background in IT Operations and am interested in public clouds, automation, and improving processes. I am seeking employment at a company that shares my interest in automation and fosters teams focused on growth and stability. I am passionate about technology and would like to work with others who share the excitement.
 
 <!-- --- -->
 
 ## Technical Proficiencies
 <div style="float: left; width: 50%;">
 <ul>
-<li>Bash/Powershell/Python</li>
-<li>Ansible</li>
+<li>Bash, Python, Powershell</li>
+<li>Amazon Web Services (AWS)</li>
 <li>nginx, haproxy, caddy</li>
-<li>fluentd, Loki, promtail</li>
+<li>fluentd, influxdb, Grafana</li>
 <li>Docker, Docker Compose</li>
 </ul>
 </div>
 
 <div style="float: right; width: 50%;">
 <ul>
-<li>influxdb, grafana</li>
-<li>Extensive Operating System and Networking Knowledge</li>
+<li>Ansible, Terraform</li>
+<li>Extensive Ops Experience (Compute/Storage/Network)</li>
 <li>Backup and Disaster Recovery</li>
 <li>Linux (Ubuntu, CentOS)</li>
-<li>Windows Server (2003+)</li>
+<li>VMware, Nutanix, Proxmox</li>
 </ul>
 </div>
 <!--
@@ -35,14 +35,14 @@ I am an experienced Site Reliability Engineer with an extensive background in IT
 
 
 ## Experience
-#### Site Reliability Engineer II
-###### GoDaddy, May 2021 - Current
-- Performed large-scale VPS fleet upgrades
-  - Including logistics of planning, scheduling, and executing customer VPS rebuilds to new version of Pagely platform
-- Commonly performed client onboarding, migration, and development of bespoke platform feature requests
-- Built and maintain tooling to audit cloud resources for cost savings (python)
-- Create tools to accelerate regular maintenance processes (python,bash)
-- Extensive Ansible work to ensure a cohesive and stable experience for ongoing operations of customer/internal servers
+#### Senior Site Reliability Engineer
+###### GoDaddy, May 2021 - Aug 2023
+- Regularly performed root-cause analysis and resolution in complex webhosting environments
+- Worked with customer to fulfill specific Observation requirements (fluentd, opensearch, kibana, grafana, ansible)
+- Built and maintained tooling to audit cloud resources for savings and drift (python)
+- Commonly wrote custom nginx/iptables rules to mitigate malicious web traffic
+- Developed and thoroughly documented new platform features implemented in Ansible
+- Routinely performed large-scale customer VPS fleet maintenances (bash, ansible)
 - Lead and trained a new team of Site Reliability Engineers
 
 #### Platforms Engineer
@@ -84,5 +84,5 @@ I am an experienced Site Reliability Engineer with an extensive background in IT
 <!-- --- -->
 
 ## Extracurricular
-- Continued learning via my homelab+cloud, focusing on DevOps practices (VMware, AWS, containers (docker/kubernetes), IaC (Terraform, Ansible), and obersvability (promtail/loki/influxdb/grafana))
-- Actively working towards AWS certifications ([Solutions Architect](https://aws.amazon.com/training/path-architecting/) and [SysOps Administrator](https://aws.amazon.com/certification/certified-sysops-admin-associate/))
+- Continued learning via my homelab+cloud, focusing on DevOps practices (Proxmox, AWS, docker, IaC (Terraform, Ansible), and obersvability (promtail/loki/influxdb/grafana))
+- Studying for AWS certifications ([AWS Certified DevOps Engineer - Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/))
